@@ -7,12 +7,12 @@
     "build": "webpack"
   },
   "bugs": {
-    "url": "https://github.com/brwngld/alx-react",
-    "email": "bern587@yahoo.com"
+    "url": "https://github.com/adaemeka/alx-react",
+    "email": "ada4emeka@yahoo.com"
   },
   "keywords": [],
-  "homepage": "https://github.com/brwngld/alx-react",
-  "author": "brwngld",
+  "homepage": "https://github.com/adaemeka/alx-react",
+  "author": "adaemeka",
   "license": "ISC",
   "devDependencies": {
     "webpack": "^5.91.0",
