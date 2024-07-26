@@ -7,7 +7,7 @@
     "build": "webpack",
     "start-dev":"webpack-dev-server --open"
   },
-  "author": "brwngld",
+  "author": "adaemeka",
   "license": "ISC",
   "devDependencies": {
     "clean-webpack-plugin": "^4.0.0",
