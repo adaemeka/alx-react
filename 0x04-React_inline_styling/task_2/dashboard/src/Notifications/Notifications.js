@@ -23,7 +23,7 @@ class Notifications extends React.Component {
     const handelClose = () => {
         console.log('Close button has been clicked')
     }
-
+    
     const buttonStyle = {
         display: 'inline-block',
         position: 'absolute',
@@ -60,7 +60,7 @@ class Notifications extends React.Component {
         </div>)
 
     }
-
+   
     else {
         return( <div className="menuItem" id="not">
             <p>Your notifications</p>
